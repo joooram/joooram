@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am Marl Joram Mapa a 4th year BSIT student at University of Batangas</p>
+<p data-importer="text" align="left">I am Marl Joram Mapa a 4th year BSIT student and an aspiring Web Developer/Project Manager/AI Engineer</p>
 
 ###
 
